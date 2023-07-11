@@ -1,0 +1,1 @@
+﻿target_sources (Threads06 PRIVATE "main.cpp" "Consumer.cpp" "Producer.cpp" "Locker.cpp" "Message.cpp")
